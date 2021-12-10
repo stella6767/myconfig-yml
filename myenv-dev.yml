@@ -1,9 +1,8 @@
 author: kangMinGyu
 version: devupdate
 
-
-  datasource:
-    url: jdbc:h2:mem:testdb
-    driver-class-name: org.h2.Driver
-    username: '{cipher}877c1d50f5184dd2639395b424a9c1986ace5dc49cddcdd834a87018f4299389'
-    password: '{cipher}6ee513b957f7797c2cadfc92e18ce3efecba500128068bf9a4d9e19d3f62d7f9'
+datasource:
+  url: jdbc:h2:mem:testdb
+  driver-class-name: org.h2.Driver
+  username: "{cipher}877c1d50f5184dd2639395b424a9c1986ace5dc49cddcdd834a87018f4299389"
+  password: "{cipher}6ee513b957f7797c2cadfc92e18ce3efecba500128068bf9a4d9e19d3f62d7f9"
